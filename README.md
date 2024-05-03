@@ -52,6 +52,12 @@ yarn cosmos
 yarn add -D drizzle-kit @types/better-sqlite3
 ```
 
+### SVGR
+
+```sh
+yarn add @svgr/webpack
+```
+
 ## 開発時の表示確認
 
 開発時は、下記コマンドでnextとcosmosを起動しておく。
