@@ -44,6 +44,14 @@ cosmos.imports.tsは `yarn cosmos` でcosmos起動時に作成される。
 yarn cosmos
 ```
 
+### Drizzle(ORM)
+
+今回は、sqliteを使用するので、sqlite用のライブラリを追加します。
+
+```sh
+yarn add -D drizzle-kit @types/better-sqlite3
+```
+
 ## 開発時の表示確認
 
 開発時は、下記コマンドでnextとcosmosを起動しておく。
