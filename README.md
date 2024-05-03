@@ -58,6 +58,19 @@ yarn add -D drizzle-kit @types/better-sqlite3
 yarn add @svgr/webpack
 ```
 
+### zod
+
+```sh
+yarn add zod-form-data validator
+yarn add -D @types/validator
+```
+
+### DaisyUI
+
+```sh
+yarn add -D daisyui
+```
+
 ## 開発時の表示確認
 
 開発時は、下記コマンドでnextとcosmosを起動しておく。
